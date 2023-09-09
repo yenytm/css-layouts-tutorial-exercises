@@ -7,7 +7,7 @@
 	display: none;
 }
 
-li {
+#myUL li {
 	display: inline;
 }
 
