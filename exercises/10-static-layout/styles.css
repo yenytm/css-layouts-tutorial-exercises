@@ -1,4 +1,21 @@
-/* your code here */
+.wrapper {
+	padding: 10px;
+}
+
+.secondWrapper {
+	height: 100%;
+	display: flex;
+	padding-top: 10px;
+}
+
+nav {
+	width: 20%;
+	margin-right: 10px;
+}
+
+section {
+	width: 80%;
+}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
